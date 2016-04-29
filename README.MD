@@ -17,4 +17,5 @@ photos, user can "Also post on Facebook, Twitter, etc."
 User can add new locations. User can upload photos/videos/reviews
 of an activity's location.
 
+
 User can save Favorite locations to a map/favorites page.
