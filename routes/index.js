@@ -19,6 +19,15 @@ router.get('/login', function(req, res, next){
   res.send('This is the login Page!');
 });
 
+// app.route('/login')
+//   .get(function(req, res){
+//     res.send('this is the fucking login form');
+// })
+//   .post(function(req, res){
+//     console.log('processing');
+//     res.send('processing the login form');
+// });
+
 // GET register page
 router.get('/register', function(req, res, next){
   res.send('This is the register Page!');
